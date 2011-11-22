@@ -3,3 +3,7 @@ Welcome to Urabewe's LG Thrill 4G Github Repo
 This repo contains work that I am performing for the LG Thrill 4G in the USA on the ATT network.  It contains kernel development as well as ROM development. Not much info to be had right now as this is the beginning phase.
 
 Enjoy and hopefully this repo has helped you in some way.
+
+boot.img = My Doom Kernel V0.2
+
+tools.zip = Tools needed to unpack/repack boot.img
